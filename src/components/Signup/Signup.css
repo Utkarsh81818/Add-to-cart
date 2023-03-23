@@ -1,0 +1,23 @@
+.form_container{
+    border: 2px solid;
+    height: 83vh;
+    width: 45vw;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+}
+
+.form-header h1{
+    display: flex;
+    justify-content: center;
+}
+
+.button:hover{
+    background-color: rgb(11, 127, 88);
+}

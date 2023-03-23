@@ -1,0 +1,26 @@
+.form_container_signin{
+    border: 2px solid;
+    height: 58vh;
+    width: 45vw;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.container_signin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 89vh;
+}
+
+.form-header-signin h1{
+    display: flex;
+    justify-content: center;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.form-check{
+    display: flex;
+    justify-content: center;
+}
